@@ -3,7 +3,7 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <furkan.kilicaslan@gmail.com>
+- <furkankilicaslan@gmail.com>
 - [klcsln.com](https://klcsln.com)
 - [linkedin.com/in/klcsln](https://www.linkedin.com/in/klcsln/)
 - Ankara, TR

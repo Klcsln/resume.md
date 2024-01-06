@@ -66,6 +66,6 @@ hand -->
 
 ## Additional Information
 
-- <strong>About Me:</strong> Got my bicycle crushed by a tank, backpacked alone through Spain, Visited Chernobyl Nuclear Power Plant, Played over 5000 hours of video games
-- <strong>Technical Skills:</strong> C++, C#, Python, Javascript, Lua, Bash, Console Development, Unreal Engine, Unity, FMOD, Blender, Substance, Git, Perforce, Plastic SCM, 3D Math, JIRA, Agile, Visual Studio, React, Node.js
+- <strong>About Me:</strong> Got my bicycle crushed by a tank, backpacked alone through Spain, Visited Chernobyl Nuclear Power Plant, Played over 10000 hours of video games
+- <strong>Technical Skills:</strong> C++, C#, CMake, Bash, Git, Perforce, Plastic SCM, 3D Math, JIRA, Console Development, Unreal Engine, Unity, FMOD, Blender, Substance, Agile, Visual Studio, React, Node.js, Lua, Python, Javascript
 - <strong>Languages:</strong> Turkish (Native), English (Fluent), German (Basic), Spanish (Basic), Polish (Basic)

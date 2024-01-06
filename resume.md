@@ -6,21 +6,26 @@ line. It is intended to be used for contact details -->
 - <furkankilicaslan@gmail.com>
 - [klcsln.com](https://klcsln.com)
 - [linkedin.com/in/klcsln](https://www.linkedin.com/in/klcsln/)
-- Ankara, TR
+- Istanbul, TR
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Software Engineer experienced in gameplay, engine and audio programming along with system, level and technical design
+I'm a Software Engineer experienced in gameplay, engine and audio systems programming. I also have an eye for level and technical game design as well as various experiences in the past with machine learning, web and mobile development.
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Software Engineer, Taleworlds Entertainment</span> <span>Feb 2022 -- Present</span>
-- Developing gameplay features and systems in C# and C++ for [Mount and Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/).
-- Fixing bugs and crashes from live and internal reports.
-- Iterating on ideas collaborating with design, engine, UI and art teams.
-- Maintaining existing systems, refactoring and participating in code reviews using Plastic SCM and JIRA
+### <span>Gameplay Programmer, IO Interactive</span> <span>Jul 2023 -- Present</span>
+- Developing gameplay systems for the upcoming James Bond game [Project 007](https://www.youtube.com/watch?v=DQr3EU4EJpw/).
+- Implementing gameplay features in C++ for 3Cs mainly working on the camera systems.
+- Ensuring project milestones are reached in collaboration with relevant teams using JIRA and Perforce.
+
+### <span>Software Engineer, Taleworlds Entertainment</span> <span>Feb 2022 -- June 2023</span>
+- Developed gameplay features and systems in C# and C++ for [Mount and Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/).
+- Fixed numerous bugs and crashes from live and internal reports to increase stability and player satisfaction.
+- Iterated on gameplay ideas collaborating with design, engine, UI and art teams.
+- Maintained existing systems, refactoring and participating in code reviews using Plastic SCM and JIRA.
 
 ### <span>Audio Software Engineering Intern, Treyarch</span> <span>May 2021 -- Aug 2021</span>
 - Extended core sound engine features for Call of Duty engine in C++ focusing on vehicle sound systems.
@@ -44,11 +49,11 @@ hand -->
 
 ## Projects
 
-### <span>[The Trials of Snowshoe Thompson](https://benhaderle.itch.io/snowshoe-thompson)</span> <span> 2020 - 2021</span>
+### <span>[The Trials of Snowshoe Thompson](https://benhaderle.itch.io/snowshoe-thompson)</span> <span> 2020 -- 2021</span>
 - Managed the audio production pipeline from sound design to gameplay implementations.
 - Programmed all SFX, Music and Mixer implementations in Unity with C#.
 - Created and strived to ensure the right vision for game audio needs, in communication with other team leads.
-### <span>[Liquidators](https://store.steampowered.com/app/1382200/Liquidators/) (+95% Positive Reviews on Steam)</span> <span> 2019 - 2020</span>
+### <span>[Liquidators](https://store.steampowered.com/app/1382200/Liquidators/) (+95% Positive Reviews on Steam)</span> <span> 2019 -- 2020</span>
 - Led level design for the USC Film School Thesis Project, Liquidators.
 - Designed and tested levels, from prototyping and blocking out to level dressing and prop placements.
 - Mentored teammates on level design and Unreal Engine 4 workflows.

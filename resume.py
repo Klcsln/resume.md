@@ -112,7 +112,7 @@ def make_html(md: str, prefix: str = "resume") -> str:
     return "".join(
         (
             preamble.format(title=title(md), css=css),
-            markdown.markdown(md, extensions=["smarty"]),
+            markdown.markdown(md, extensions=["smarty", "abbr"]),
             postamble,
         )
     )
@@ -125,8 +125,12 @@ def write_pdf(html: str, prefix: str = "resume", chrome: str = "") -> None:
     chrome = chrome or guess_chrome_path()
     html64 = base64.b64encode(html.encode("utf-8"))
     options = [
+        "--no-sandbox",
         "--headless",
         "--print-to-pdf-no-header",
+        # Keep both versions of this option for backwards compatibility
+        # https://developer.chrome.com/docs/chromium/new-headless.
+        "--no-pdf-header-footer",
         "--enable-logging=stderr",
         "--log-level=2",
         "--in-process-gpu",

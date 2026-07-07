@@ -5,30 +5,27 @@
 - [linkedin.com/in/klcsln](https://www.linkedin.com/in/klcsln/)
 - Istanbul, TR
 
-Gameplay programmer with a strong focus on 3Cs. Experienced across AAA and indie productions in C++ and C#, with a background spanning gameplay, engine, and audio programming.
+Gameplay programmer with 4+ years shipping AAA and indie titles in C++, specializing in camera systems tightly coupled to combat, player controls, cover mechanics, and interaction systems, built on data-oriented frameworks.
 
 ## Experience
 
 ### <span>Gameplay Programmer, IO Interactive</span> <span>Jul 2023 -- Present</span>
-- Owning camera systems and interactions for [007: First Light](https://store.steampowered.com/agecheck/app/3768760/) — spanning systemic camera movements, ranged and melee combat cameras, transition systems, cover systems and assists built on a data-oriented framework.
-- Implementing 3Cs gameplay features in C++ working with game design, cinematic arts, and other tech teams.
-- Maintaining performance targets through ongoing optimization work across camera systems.
+- Own camera systems for [007: First Light](https://store.steampowered.com/agecheck/app/3768760/) in C++ — systemic movements, combat cameras (ranged/melee), cover assists, and transition systems built on a data-oriented framework, interfacing with systems like combat, locomotion, and cover systems in real time.
+- Design and ship gameplay features end-to-end with design, cinematic arts, UI and engine teams.
+- Maintain performance targets through ongoing profiling and optimization on a shipped AAA title.
+- Improved team productivity through build tooling, new debug systems, and mentoring.
 
 ### <span>Software Engineer, Taleworlds Entertainment</span> <span>Feb 2022 -- Jun 2023</span>
-- Developed and shipped gameplay systems in C# and C++ for [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) — including new quests, the perk system, and modding support improvements.
-- Resolved numerous bugs and crashes from live and internal reports to improve stability and player satisfaction.
-- Contributed to integration test coverage and participated in code reviews using Plastic SCM and JIRA.
-- Collaborated with design, engine, UI, and art teams to iterate on gameplay ideas and systems.
+- Shipped gameplay systems in C++/C# for [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) — new quests, the perk system, and modding support improvements.
+- Increased integration test coverage and participated in code reviews using Plastic SCM and JIRA.
+- Collaborated with design, engine, UI, and art teams to iterate on new gameplay ideas and systems.
 
 ### <span>Audio Software Engineering Intern, Treyarch</span> <span>May 2021 -- Aug 2021</span>
-- Extended core sound engine features for the Call of Duty engine in C++, focusing on vehicle sound systems.
-- Programmed new features for internal development tools and resolved various bugs.
-- Designed and pitched a multiplayer game mode to the team using a proprietary scripting language.
+- Extended vehicle sound systems in C++ for the Call of Duty engine; designed and pitched a multiplayer mode using the studio's proprietary scripting language.
 
 ### <span>Software Engineering Intern, Taleworlds Entertainment</span> <span>Jun 2020 -- Aug 2020</span>
 - Developed gameplay features, modules, systems, and tools for Mount&Blade II: Bannerlord.
 - Designed and implemented the first performance benchmark scene prototype, now shipped in the game.
-- Automated XML formatting pipelines for the design team.
 
 ## Education
 
@@ -47,12 +44,11 @@ Gameplay programmer with a strong focus on 3Cs. Experienced across AAA and indie
 - Programmed all SFX, music, and mixer implementations in Unity with C#.
 
 ### <span>[Liquidators](https://store.steampowered.com/app/1382200/Liquidators/) — 96% Positive on Steam</span> <span>2019 -- 2020</span>
-- Led level design for the USC Film School thesis project.
-- Designed and iterated on levels from initial block-out through final dressing and prop placement.
-- Mentored teammates on level design principles and Unreal Engine 4 workflows.
+- Led level design and iterated on encounter pacing for a shipped indie title built in Unreal Engine 4.
+- Mentored teammates on engine workflows.
 
 ## Additional Information
 
-- <strong>Technical Skills:</strong> C++, C#, CMake, Bash, Git, Perforce, Plastic SCM, 3D Math, Console Development, Unreal Engine, Unity, FMOD, Blender, Substance, JIRA, Agile, Visual Studio, Lua, Python, JavaScript, React, Node.js
+- <strong>Technical Skills:</strong> C++, C#, Data-Oriented Design, Multithreaded Systems, 3D Vector Math & Linear Algebra, Game Engine Architecture, CMake, Bash, Git, Perforce, Plastic SCM, Console Development, Tracy Profiler, Unreal Engine 4, Unity, FMOD, Blender, Substance, JIRA, Agile, Visual Studio, Lua, Python
 - <strong>Languages:</strong> Turkish (Native), English (Fluent), German (Basic), Spanish (Basic), Polish (Basic)
 - <strong>About Me:</strong> Got my bicycle crushed by a tank, backpacked alone through Spain, visited Chernobyl Nuclear Power Plant, played over 10,000 hours of video games

@@ -10,13 +10,13 @@ Gameplay programmer with 4+ years shipping AAA and indie titles in C++, speciali
 ## Experience
 
 ### <span>Gameplay Programmer, IO Interactive</span> <span>Jul 2023 -- Present</span>
-- Own camera systems for [007: First Light](https://store.steampowered.com/agecheck/app/3768760/) in C++ — systemic movements, combat cameras (ranged/melee), cover assists, and transition systems built on a data-oriented framework, interfacing with systems like combat, locomotion, and cover systems in real time.
-- Design and ship gameplay features end-to-end with design, cinematic arts, UI and engine teams.
-- Maintain performance targets through ongoing profiling and optimization on a shipped AAA title.
+- Owned camera systems for [007: First Light](https://store.steampowered.com/agecheck/app/3768760/) in C++, systemic movement, combat cameras (ranged/melee), cover assists, and transition systems built on a data-oriented framework, interfacing with systems like combat, locomotion, and cover systems in real time.
+- Designed and shipped gameplay features end-to-end with design, cinematic arts, UI and engine teams.
+- Maintained performance targets through ongoing profiling and optimization on a shipped AAA title.
 - Improved team productivity through build tooling, new debug systems, and mentoring.
 
 ### <span>Software Engineer, Taleworlds Entertainment</span> <span>Feb 2022 -- Jun 2023</span>
-- Shipped gameplay systems in C++/C# for [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) — new quests, the perk system, and modding support improvements.
+- Shipped gameplay systems in C++/C# for [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) new quests, the perk system, and modding support improvements.
 - Increased integration test coverage and participated in code reviews using Plastic SCM and JIRA.
 - Collaborated with design, engine, UI, and art teams to iterate on new gameplay ideas and systems.
 
@@ -31,7 +31,7 @@ Gameplay programmer with 4+ years shipping AAA and indie titles in C++, speciali
 
 ### <span>University of Southern California, M.S. Computer Science</span> <span>2019 -- 2021</span>
 
-- Fulbright Master's Scholar — 1 of 70 selected from the Fulbright Türkiye cohort of 2019
+- Fulbright Master's Scholar, 1 of 70 selected from the Fulbright Türkiye cohort of 2019
 
 ### <span>Bahcesehir University, B.E. Computer Engineering & B.S. Genetics and Bioinformatics</span> <span>2014 -- 2019</span>
 
@@ -43,7 +43,7 @@ Gameplay programmer with 4+ years shipping AAA and indie titles in C++, speciali
 - Managed the audio production pipeline from sound design through gameplay implementation.
 - Programmed all SFX, music, and mixer implementations in Unity with C#.
 
-### <span>[Liquidators](https://store.steampowered.com/app/1382200/Liquidators/) — 96% Positive on Steam</span> <span>2019 -- 2020</span>
+### <span>[Liquidators](https://store.steampowered.com/app/1382200/Liquidators/) 96% Positive on Steam</span> <span>2019 -- 2020</span>
 - Led level design and iterated on encounter pacing for a shipped indie title built in Unreal Engine 4.
 - Mentored teammates on engine workflows.
 
